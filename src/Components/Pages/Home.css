@@ -1,0 +1,29 @@
+.previous,
+.next {
+    background-color: brown;
+    padding: 5px 10px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.previous a,
+.next a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.active a {
+    background-color: green;
+    padding: 6px 10px;
+    border-radius: 5px;
+}
+
+.pagination li {
+    padding: 5px 10px;
+}
+
+/* 
+09:59 24 =  1
+01:48    = 12
+02:13   = 6.13 = 4 com */
+/* 6.26 */
