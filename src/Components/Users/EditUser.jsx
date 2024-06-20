@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 import { Link, useNavigate } from "react-router-dom";
-import { ToastContainer,  } from "react-toastify";
+import { ToastContainer, toast } from "react-toastify";
 
 const EditUser = () => {
   const [name, setName] = useState("");
