@@ -7,7 +7,7 @@ import Home from "./Components/Pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AddUser from "./Components/Users/AddUser";
 import EditUser from "./Components/Users/EditUser";
-import Users from "./Components/Users/Users";
+import  from "./Components/Users/Users";
 
 function App() {
   return (
