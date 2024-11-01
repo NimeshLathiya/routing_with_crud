@@ -4,4 +4,4 @@ const About = () => {
   return <div>About</div>;
 };
 
-export default ;
+export default About;
